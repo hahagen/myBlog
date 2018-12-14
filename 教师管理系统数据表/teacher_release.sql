@@ -1,0 +1,14 @@
+INSERT INTO `teacher_release` (`uni_id`, `teacher_id`, `time`, `q_name`, `p_name`, `pm`) VALUES (1, '3', '2018', 'scinece', 'lijhh', '10');
+INSERT INTO `teacher_release` (`uni_id`, `teacher_id`, `time`, `q_name`, `p_name`, `pm`) VALUES (0, '', '2018', '', '', '');
+INSERT INTO `teacher_release` (`uni_id`, `teacher_id`, `time`, `q_name`, `p_name`, `pm`) VALUES (3, '3', '2018', '', '', '');
+INSERT INTO `teacher_release` (`uni_id`, `teacher_id`, `time`, `q_name`, `p_name`, `pm`) VALUES (4, '3', '2018', '', '', '');
+INSERT INTO `teacher_release` (`uni_id`, `teacher_id`, `time`, `q_name`, `p_name`, `pm`) VALUES (5, '3', '2018', '', '', '');
+INSERT INTO `teacher_release` (`uni_id`, `teacher_id`, `time`, `q_name`, `p_name`, `pm`) VALUES (6, '3', '2018', '', '', '');
+INSERT INTO `teacher_release` (`uni_id`, `teacher_id`, `time`, `q_name`, `p_name`, `pm`) VALUES (7, '3', '2018', '', '', '');
+INSERT INTO `teacher_release` (`uni_id`, `teacher_id`, `time`, `q_name`, `p_name`, `pm`) VALUES (8, '3', '2018', '', '', '');
+INSERT INTO `teacher_release` (`uni_id`, `teacher_id`, `time`, `q_name`, `p_name`, `pm`) VALUES (9, '3', '2018', '', '', '');
+INSERT INTO `teacher_release` (`uni_id`, `teacher_id`, `time`, `q_name`, `p_name`, `pm`) VALUES (10, '3', '2018', '', '', '');
+INSERT INTO `teacher_release` (`uni_id`, `teacher_id`, `time`, `q_name`, `p_name`, `pm`) VALUES (11, '3', '2018', 'qqq', 'ccc', '12');
+INSERT INTO `teacher_release` (`uni_id`, `teacher_id`, `time`, `q_name`, `p_name`, `pm`) VALUES (12, '3', '2018', '', '', '');
+INSERT INTO `teacher_release` (`uni_id`, `teacher_id`, `time`, `q_name`, `p_name`, `pm`) VALUES (13, '3', '0000', 'q', 's', '1');
+INSERT INTO `teacher_release` (`uni_id`, `teacher_id`, `time`, `q_name`, `p_name`, `pm`) VALUES (14, '3', '2017', 'a', 'be', '2');

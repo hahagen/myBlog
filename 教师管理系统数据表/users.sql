@@ -1,0 +1,9 @@
+INSERT INTO `users` (`id`, `username`, `password`, `email`) VALUES (1, '', '', '');
+INSERT INTO `users` (`id`, `username`, `password`, `email`) VALUES (2, 'huohi', '123', '456123');
+INSERT INTO `users` (`id`, `username`, `password`, `email`) VALUES (3, 'y', '123456', '431960');
+INSERT INTO `users` (`id`, `username`, `password`, `email`) VALUES (4, '', '', '');
+INSERT INTO `users` (`id`, `username`, `password`, `email`) VALUES (5, 'qqq', '123', '344');
+INSERT INTO `users` (`id`, `username`, `password`, `email`) VALUES (6, '', '', '');
+INSERT INTO `users` (`id`, `username`, `password`, `email`) VALUES (7, '', '', '');
+INSERT INTO `users` (`id`, `username`, `password`, `email`) VALUES (8, 'xuhuihui', '123', '123456@163.c0m');
+INSERT INTO `users` (`id`, `username`, `password`, `email`) VALUES (9, '', '', '');
